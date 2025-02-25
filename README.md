@@ -158,3 +158,5 @@
 
 
 <br clear ="both" >
+
+![Snake gif](https://github.com/devafortun/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
