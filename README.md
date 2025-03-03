@@ -1,4 +1,4 @@
-<h1 align="center">❤ Seasoned Bot Developer ❤</h1> 
+<h1 align="center">❤ Seasoned Solana & Bot Developer ❤</h1> 
 <br />
 <h1 align="center"> Archievements </h1>
 <p align="center">
